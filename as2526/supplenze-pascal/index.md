@@ -15,4 +15,4 @@ Lunedì 18 maggio 2026
 ### Argomenti 
 
 - Con il prof. Luca Casadei, lezione su **Sistemi di versionamento: Git** - [[Web slide]](https://nickolausenteaching.github.io/git-v1.0-finalissimo/) [[GitLab @ biagio.ispascalcomandini.it]](https://biagio.ispascalcomandini.it/gitlab/users/sign_in)
-- Live coding: esercizio `MathSet` in TDD - [[Consegna]](/materials/tdd/MathSet.pdf)[Codice sorgente (non ancora disponibile)](#)
+- Live coding: esercizio `MathSet` in TDD - [[Consegna]](/materials/tdd/MathSet.pdf) [[Codice sorgente (non ancora disponibile)]](#)
