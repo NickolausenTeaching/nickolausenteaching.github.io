@@ -1,10 +1,13 @@
 Home
 =======
 
-Sito di raccolta di materiale didattico potenzialmente utile di [@Nicholas Magi](www.nicholasmagi.it). Licenza CC-BY-SA, come vorrebbe il buon [Luca Casadei](https://didattica.lucacasadei.net).
+Sito di raccolta di materiale didattico potenzialmente utile di [@Nicholas Magi](https://www.nicholasmagi.it).
 
+<blockquote> Materiale distribuito con licenza **Creative Commons BY-NC-SA 4.0**   
+(Attribuzione – Non commerciale – Condividi allo stesso modo) 
+</blockquote>
 
 Ultimi aggiornamenti
 ---------
 
-Vuoto al momento ;-)
+*Vuoto al momento ;-)*

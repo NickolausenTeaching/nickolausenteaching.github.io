@@ -20,8 +20,30 @@ Abbiamo visto che possiamo realizzare una priority queue mediante Heap, raggiung
 2. Servire l'elemento con priorità minore (`Dequeue()`)
 3. Sapere quanti elementi sono in coda (`ElementsLeft`)
 
+```csharp
+public class MinPriorityQueue
+{
+    // [...]
+    public int ElementsLeft => // ...
+
+    public void Enqueue(int key) 
+    {
+        // ...
+    }
+
+    public int Dequeue() 
+    {
+        // ...
+    }
+    // [...]
+}
+
+```
+
 Allegati
 ---
+
+- [Web Slides](https://nickolausenteaching.github.io/heap-dsa/#/)
 
 Note: Ricorda che in pseudocodice gli array iniziano da 1!
 
