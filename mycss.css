@@ -1,0 +1,52 @@
+.navbar-toggler {
+    margin-right: 2em;
+}
+
+#md-main-navbar, .dropdown-menu.show {
+    padding-inline: 2em;
+}
+
+@media screen and (max-width: 991px) {
+    .navbar-collapse {
+        padding-top: 10px !important;
+    }
+}
+
+.dropdown-menu.show li.dropdown {
+    min-width: max-content;
+}
+
+ul.navbar-nav {
+    gap: 2em;
+    margin: 0 !important;
+    margin-left: auto !important;
+}
+
+#md-page-menu a, nav a {
+    text-decoration: none;
+}
+
+#md-body-container {
+    margin-top: 40px;
+}
+
+#md-content *:not(h1, h2, h3, h4, h5, h6), .md-text {
+    font-size: 18px;
+}
+
+.table {
+    display: block;
+    overflow-x: scroll;
+}
+
+.md-inpage-anchor:not(:first-child) {
+    margin-top: 30px;
+}
+
+h1 {
+    margin-bottom: 30px !important;
+}
+
+table {
+    border: 0px !important;
+}
