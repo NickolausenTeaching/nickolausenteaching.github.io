@@ -11,7 +11,7 @@ Orario delle lezioni
 | 10:00-11:00 |        |                                     | **Lab. 47** w/prof. Federico Molara |         |         |        |     |
 | 11:00-11:50 |        |                                     | **Lab. 47** w/prof. Federico Molara |         |         |        |     |
 | 12:00-13:00 |        | **Lab. 51** w/prof. Federico Molara |                                     |         |         |        |     |
-| 13:00-14:00 |        |                                     |                                     |         |         |        |     |
+| 13:00-14:00 |        |                                     |                                     |         |         |        |     | |
 
 
 Materiale condiviso & attività

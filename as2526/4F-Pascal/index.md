@@ -11,7 +11,7 @@ Orario delle lezioni
 | 10:00-11:00 |        | **Lab. 46** w/prof. Toni Greco |                                |         |         |        |     |
 | 11:00-11:50 |        | **Lab. 46** w/prof. Toni Greco |                                |         |         |        |     |
 | 12:00-13:00 |        |                                | **Lab. 51** w/prof. Toni Greco |         |         |        |     |
-| 13:00-14:00 |        |                                |                                |         |         |        |     |
+| 13:00-14:00 |        |                                |                                |         |         |        |     | |
 
 
 Materiale condiviso & attività
