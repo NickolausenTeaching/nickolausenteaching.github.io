@@ -50,6 +50,26 @@ private void BuildTreeString(int nodeIndex, string indent, bool isLast, StringBu
 }
 ```
 
+#### Possibile struttura iniziale (parziale)
+
+```csharp
+class MinHeap 
+{
+	private List<int> _keys;
+	public int Size => _keys.Count;
+	/* opzionale — può essere implementato diversamente (tramite funzioni spiegate in pseudocodice)
+	// public int Minimum [...]
+	*/
+	
+	public int Parent(int i) /* [...] */
+	public int Left(int i) /* [...] */
+	public int Right(int i) /* [...] */
+	
+	/* [...] */
+}
+```
+
+---
 ### Parte #02
 
 Abbiamo visto che possiamo realizzare una priority queue mediante Heap, raggiungendo un compromesso (in termini di complessità computazionale) tra una sua realizzazione basata su **vettore ordinato** e una su **vettore disordinato**. Realizza, in C#, una classe "`MinPriorityQueue`" in cui deve essere possibile:
