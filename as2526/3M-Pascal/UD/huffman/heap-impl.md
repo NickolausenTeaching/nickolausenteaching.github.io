@@ -105,11 +105,11 @@ Allegati
 
 Note: Ricorda che in pseudocodice gli array iniziano da 1!
 
-![](assets/navigazione-heap.png)
-![](assets/heap-max.png)
+![](navigazione-heap.png)
+![](heap-max.png)
 
-![](assets/max-heapify.png)
-![](assets/extract-max.png)
+![](max-heapify.png)
+![](extract-max.png)
 
-![](assets/increase-key.png)
-![](assets/build-max-heap.png)
+![](increase-key.png)
+![](build-max-heap.png)

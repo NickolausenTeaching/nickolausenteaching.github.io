@@ -19,7 +19,7 @@ Materiale condiviso & attività
 
 ### UD: "Algoritmi e Strutture Dati - XXX"
 - [[Dispense] La struttura dati **heap** e i suoi utilizzi.](https://nickolausenteaching.github.io/heap-dsa/#/)
-- [[Attività laboratoriale] Implementazione di una priority queue mediante MinHeap](UD/mistero/heap-impl.md)
+- [[Attività laboratoriale] Implementazione di una priority queue mediante MinHeap](heap-impl.md)
 
 
 Registro delle lezioni
