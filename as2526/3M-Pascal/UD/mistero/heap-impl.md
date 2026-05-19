@@ -12,6 +12,44 @@ Scrivi un programma in C# che implementi, tramite la scrittura di una classe, la
 
 Hint: Puoi riguardare gli pseudocodici delle operazioni previste per **MaxHeap** dalle dispense condivise (o dagli allegati della consegna) e cercare di capire la logica da seguire per **MinHeap**.
 
+#### Funzione di utilità di stampa
+ 
+```csharp
+public override string ToString()
+{
+	if (_keys == null || _keys.Count == 0)
+	{
+		return "Empty Heap";
+	}
+	
+	var output = new StringBuilder();
+	BuildTreeString(0, "", true, output);
+	return output.ToString().TrimEnd();
+}
+
+private void BuildTreeString(int nodeIndex, string indent, bool isLast, StringBuilder output)
+{
+	if (nodeIndex >= Size) return;
+	
+	output.Append(indent);
+	output.Append(isLast ? "└── " : "├── ");
+	output.AppendLine(_keys[nodeIndex].ToString());
+	indent += isLast ? " " : "│ ";
+
+	int left = Left(nodeIndex);
+	int right = Right(nodeIndex);
+
+	if (left < Size)
+	{
+		BuildTreeString(left, indent, right >= Size, output);
+	}
+	if (right < Size)
+	{
+		BuildTreeString(right, indent, true, output);
+	}
+}
+```
+
 ### Parte #02
 
 Abbiamo visto che possiamo realizzare una priority queue mediante Heap, raggiungendo un compromesso (in termini di complessità computazionale) tra una sua realizzazione basata su **vettore ordinato** e una su **vettore disordinato**. Realizza, in C#, una classe "`MinPriorityQueue`" in cui deve essere possibile:

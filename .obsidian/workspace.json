@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "as2526/3M-Pascal/index.md",
+                "file": "as2526/3M-Pascal/UD/mistero/heap-impl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "heap-impl"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "135f1779d2599ce2",
   "lastOpenFiles": [
-    "as2526/3M-Pascal/UD/mistero/heap-impl.md",
     "as2526/3M-Pascal/index.md",
+    "as2526/3M-Pascal/UD/mistero/heap-impl.md",
     "as2526/supplenze-pascal/index.md",
     "as2526/4F-Pascal/index.md",
     "script.js",
