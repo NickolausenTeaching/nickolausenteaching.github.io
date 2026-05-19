@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "as2526/3M-Pascal/UD/huffman/heap-impl.md",
+                "file": "as2526/3M-Pascal/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "heap-impl"
+              "title": "index"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "135f1779d2599ce2",
   "lastOpenFiles": [
-    "index.md",
     "as2526/3M-Pascal/UD/huffman/heap-impl.md",
+    "index.md",
     "as2526/3M-Pascal/index.md",
     "as2526/supplenze-pascal/index.md",
     "as2526/4F-Pascal/index.md",
