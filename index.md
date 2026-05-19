@@ -3,8 +3,8 @@ Home
 
 Sito di raccolta di materiale didattico potenzialmente utile di [@Nicholas Magi](https://www.nicholasmagi.it).
 
-<blockquote> Materiale distribuito con licenza **Creative Commons BY-NC-SA 4.0**   
-(Attribuzione – Non commerciale – Condividi allo stesso modo) 
+<blockquote> Materiale distribuito con licenza **Creative Commons CC-BY-SA 4.0**   
+(Creative Commons Attribution-ShareAlike) 
 </blockquote>
 
 Ultimi aggiornamenti
