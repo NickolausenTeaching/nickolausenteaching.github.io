@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "as2526/3M-Pascal/UD/huffman/char-frequency.md",
+                "file": "as2526/4F-Pascal/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "char-frequency"
+              "title": "index"
             }
           },
           {
@@ -210,8 +210,8 @@
   },
   "active": "01bb09258eae0970",
   "lastOpenFiles": [
-    "as2526/3M-Pascal/UD/huffman/heap-impl.md",
     "as2526/3M-Pascal/UD/huffman/char-frequency.md",
+    "as2526/3M-Pascal/UD/huffman/heap-impl.md",
     "as2526/3M-Pascal/index.md",
     "as2526/3M-Pascal/UD/huffman/assets/input02.txt",
     "as2526/3M-Pascal/UD/huffman/assets/input01.txt",
