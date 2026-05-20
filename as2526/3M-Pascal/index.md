@@ -17,9 +17,10 @@ Orario delle lezioni
 Materiale condiviso & attività
 ---
 
-### UD: "Algoritmi e Strutture Dati - XXX"
+### UD: "Algoritmi e Strutture Dati - la codifica di Huffman"
 - [[Dispense] La struttura dati **heap** e i suoi utilizzi.](https://nickolausenteaching.github.io/heap-dsa/#/)
 - [[Attività laboratoriale] Implementazione di una priority queue mediante MinHeap](UD/huffman/heap-impl.md)
+- [[Attività laboratoriale] Costruzione di una tabella di frequenze dei caratteri](UD/huffman/char-frequency.md)
 
 
 Registro delle lezioni
