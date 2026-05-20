@@ -6,7 +6,7 @@ Consegna
 
 Costruire un programma C# che, preso in input un file contenente del testo, ne costruisca una tabella di frequenze dei caratteri.
 
-In particolare, preso un file `input.txt` di contenuto "`ciao`", deve essere possibile stampare un risultato simile a:
+In particolare, preso un file `input.txt` con contenuto "`ciao`", deve essere possibile stampare un risultato simile a:
 
 ```sh
 'c' -> 1
@@ -15,7 +15,7 @@ In particolare, preso un file `input.txt` di contenuto "`ciao`", deve essere pos
 'o' -> 1
 ```
 
-Se, all'interno di `input.txt` ci fosse il contenuto `ciao ciao`, dovrei visualizzare:
+Se, all'interno di `input.txt` ci fosse il contenuto "`ciao ciao`", dovrei visualizzare:
 
 ```sh
 'c' -> 2

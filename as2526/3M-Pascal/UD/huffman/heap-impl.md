@@ -4,7 +4,7 @@ Attività laboratoriale: implementazione di una priority queue mediante MinHeap
 Consegna
 ---
 
-Warning: Svolgi i passi in maniera sequenziale!
+Warning: Svolgi le parti dell'esercitazione in maniera sequenziale!
 
 ### Parte #01
 
