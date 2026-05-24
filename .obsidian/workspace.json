@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "as2526/4F-Pascal/index.md",
+                "file": "as2526/3M-Pascal/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -210,6 +210,7 @@
   },
   "active": "01bb09258eae0970",
   "lastOpenFiles": [
+    "as2526/4F-Pascal/index.md",
     "as2526/3M-Pascal/UD/huffman/char-frequency.md",
     "as2526/3M-Pascal/UD/huffman/heap-impl.md",
     "as2526/3M-Pascal/index.md",
@@ -218,7 +219,6 @@
     "as2526/3M-Pascal/UD/huffman/assets/input03.txt",
     "index.md",
     "as2526/supplenze-pascal/index.md",
-    "as2526/4F-Pascal/index.md",
     "script.js",
     "materials/tdd/MathSetTest.kt",
     "materials/tdd/MathSet.kt",
