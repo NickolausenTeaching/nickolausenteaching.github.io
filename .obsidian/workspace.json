@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "7224c43ce4f87040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "as2526/3M-Pascal/UD/huffman/char-frequency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "char-frequency"
+            }
+          },
+          {
             "id": "2da9c827829c1f99",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "heap-impl"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,12 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01bb09258eae0970",
+  "active": "7224c43ce4f87040",
   "lastOpenFiles": [
-    "as2526/4F-Pascal/index.md",
-    "as2526/3M-Pascal/UD/huffman/char-frequency.md",
     "as2526/3M-Pascal/UD/huffman/heap-impl.md",
+    "as2526/3M-Pascal/UD/huffman/char-frequency.md",
     "as2526/3M-Pascal/index.md",
+    "as2526/4F-Pascal/index.md",
     "as2526/3M-Pascal/UD/huffman/assets/input02.txt",
     "as2526/3M-Pascal/UD/huffman/assets/input01.txt",
     "as2526/3M-Pascal/UD/huffman/assets/input03.txt",

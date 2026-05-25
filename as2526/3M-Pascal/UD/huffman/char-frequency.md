@@ -36,6 +36,60 @@ Anteprima di `input01.txt`:
 We use a constant “driving force” F d together with a Gaussian thermostatting “constraint force” F d to simulate a nonequilibrium steady-state current (particle velocity) in a periodic, two-dimensional, classical Lorentz gas. The ratio of the average particle velocity to the driving force (field strength) is the Lorentz-gas conductivity. A regular “Galton-board” lattice of fixed particles is arranged in a dense triangular-lattice structure. The moving scatterer particle travels through the lattice at constant kinetic energy, making elastic hard-disk collisions with the fixed particles. At low field strengths the nonequilibrium conductivity is statistically indistinguishable from the equilibrium Green-Kubo estimate of Machta and Zwanzig. The low-field conductivity varies smoothly, but in a complicated way, with field strength. For moderate fields the conductivity generally decreases nearly linearly with field, but is nearly discontinuous at certain values where interesting stable cycles of collisions occur. As the field is increased, the phase-space probability density drops in apparent fractal dimensionality from 3 to 1. We compare the nonlinear conductivity with similar zero-density results from the two-particle Boltzmann equation.
 ```
 
+Tabella delle frequenze di `input01.txt`
+
+```text
+==== FREQUENCY TABLE for input01.txt ====
+Char W appears 2 times
+Char e appears 110 times
+Char   appears 171 times
+Char u appears 30 times
+Char s appears 63 times
+Char a appears 80 times
+Char c appears 52 times
+Char o appears 61 times
+Char n appears 67 times
+Char t appears 111 times
+Char “ appears 3 times
+Char d appears 37 times
+Char r appears 68 times
+Char i appears 106 times
+Char v appears 14 times
+Char g appears 21 times
+Char f appears 20 times
+Char ” appears 3 times
+Char F appears 3 times
+Char h appears 33 times
+Char w appears 12 times
+Char G appears 3 times
+Char m appears 19 times
+Char l appears 57 times
+Char q appears 4 times
+Char b appears 11 times
+Char y appears 21 times
+Char - appears 11 times
+Char ( appears 2 times
+Char p appears 15 times
+Char ) appears 2 times
+Char , appears 7 times
+Char L appears 2 times
+Char z appears 5 times
+Char . appears 9 times
+Char T appears 3 times
+Char A appears 3 times
+Char x appears 2 times
+Char k appears 3 times
+Char K appears 1 times
+Char M appears 1 times
+Char Z appears 1 times
+Char 3 appears 1 times
+Char 1 appears 1 times
+Char B appears 1 times
+**** END OF TABLE for input01.txt ****
+```
+
+---
+
 Anteprima di `input02.txt`:
 
 ```text
@@ -59,6 +113,59 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
+
+Tabella delle frequenze di `input02.txt`:
+
+```text
+==== FREQUENCY TABLE for input02.txt ====
+Char B appears 1 times
+Char e appears 86 times
+Char a appears 50 times
+Char u appears 20 times
+Char t appears 74 times
+Char i appears 49 times
+Char f appears 10 times
+Char l appears 33 times
+Char   appears 118 times
+Char s appears 42 times
+Char b appears 19 times
+Char r appears 31 times
+Char h appears 29 times
+Char n appears 38 times
+Char g appears 11 times
+Char y appears 15 times
+Char . appears 18 times
+Char 
+ appears 18 times
+Char E appears 2 times
+Char x appears 6 times
+Char p appears 20 times
+Char c appears 16 times
+Char m appears 15 times
+Char S appears 3 times
+Char o appears 41 times
+Char C appears 1 times
+Char d appears 16 times
+Char F appears 1 times
+Char R appears 1 times
+Char ' appears 4 times
+Char k appears 2 times
+Char A appears 3 times
+Char v appears 5 times
+Char U appears 1 times
+Char I appears 3 times
+Char , appears 3 times
+Char T appears 1 times
+Char - appears 6 times
+Char w appears 4 times
+Char D appears 1 times
+Char N appears 2 times
+Char * appears 2 times
+Char ! appears 1 times
+**** END OF TABLE for input02.txt ****
+```
+
+---
 
 Anteprima di `input03.txt`:
 
@@ -164,4 +271,99 @@ E pensa che tu volevi dare la colpa a me
 Girano le fanfole, suonano le fanfole
 Ci rubano tutto poi scappano
 E adesso si meritano un testo che non c’è
+```
+
+Tabella delle frequenze di `input03.txt`:
+
+```text
+==== FREQUENCY TABLE for input03.txt ====
+Char F appears 8 times
+Char a appears 265 times
+Char n appears 193 times
+Char t appears 112 times
+Char l appears 150 times
+Char o appears 247 times
+Char v appears 29 times
+Char   appears 445 times
+Char q appears 16 times
+Char u appears 94 times
+Char i appears 221 times
+Char c appears 75 times
+Char e appears 212 times
+Char d appears 49 times
+Char R appears 3 times
+Char m appears 56 times
+Char r appears 93 times
+Char 
+ appears 100 times
+Char C appears 12 times
+Char b appears 27 times
+Char s appears 83 times
+Char g appears 42 times
+Char S appears 9 times
+Char p appears 58 times
+Char à appears 4 times
+Char I appears 7 times
+Char z appears 5 times
+Char f appears 62 times
+Char L appears 2 times
+Char : appears 3 times
+Char “ appears 4 times
+Char M appears 2 times
+Char h appears 30 times
+Char ? appears 3 times
+Char ” appears 4 times
+Char A appears 3 times
+Char … appears 6 times
+Char , appears 40 times
+Char ì appears 2 times
+Char T appears 4 times
+Char ’ appears 7 times
+Char Q appears 5 times
+Char P appears 5 times
+Char ò appears 2 times
+Char y appears 1 times
+Char ! appears 1 times
+Char H appears 1 times
+Char D appears 2 times
+Char é appears 1 times
+Char è appears 7 times
+Char E appears 12 times
+Char G appears 8 times
+Char N appears 3 times
+Char م appears 17 times
+Char ل appears 22 times
+Char ا appears 34 times
+Char ك appears 4 times
+Char ي appears 3 times
+Char ز appears 2 times
+Char د appears 3 times
+Char ر appears 6 times
+Char و appears 9 times
+Char ٮ appears 29 times
+Char 0 appears 4 times
+Char ى appears 5 times
+Char ع appears 8 times
+Char ق appears 1 times
+Char > appears 19 times
+Char B appears 2 times
+Char ڡ appears 2 times
+Char ّ appears 1 times
+Char 6 appears 6 times
+Char ح appears 10 times
+Char أ appears 3 times
+Char ش appears 5 times
+Char ة appears 5 times
+Char j appears 1 times
+Char ت appears 1 times
+Char ذ appears 1 times
+Char ص appears 2 times
+Char ف appears 1 times
+Char ه appears 1 times
+Char ن appears 4 times
+Char س appears 3 times
+Char U appears 2 times
+Char ù appears 2 times
+Char È appears 2 times
+**** END OF TABLE for input03.txt ****
 ```
